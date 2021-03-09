@@ -1,0 +1,19 @@
+﻿  funcs.cpp
+d:\c++\dragster\dragster\funcs.cpp(29): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\c++\dragster\dragster\funcs.cpp(42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(61): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\c++\dragster\dragster\funcs.cpp(74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(131): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Dragster.vcxproj -> D:\c++\Dragster\Debug\Dragster.exe

@@ -1,0 +1,24 @@
+﻿  funcs.cpp
+d:\c++\dragster\dragster\funcs.cpp(29): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\c++\dragster\dragster\funcs.cpp(42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(61): warning C4244: =: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\c++\dragster\dragster\funcs.cpp(74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(125): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\c++\dragster\dragster\funcs.cpp(131): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 126 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Dragster.vcxproj -> D:\c++\Dragster\Release\Dragster.exe
